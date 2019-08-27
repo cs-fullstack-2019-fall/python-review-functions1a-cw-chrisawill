@@ -1,4 +1,5 @@
 # Python review function introduction
+Each of your functions should be named somehting diffrent instead of main. You're really missing out on the modularity of functions. See index.py for comments (!!). 4/5. Score : 4
 ````
 ### Problem 1
 Create a ```printNumbers``` function to print integers from -25 to 20 to the console (print in the function)
